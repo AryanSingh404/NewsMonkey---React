@@ -1,0 +1,309 @@
+{
+
+    "status": "ok",
+    "totalResults": 38,
+    
+    "articles": [
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Leslie Josephs",
+            "title": "U.S. to ease travel restrictions for foreign visitors who are vaccinated against Covid - CNBC",
+            "description": "The Biden administration will also require unvaccinated U.S. citizens to test a day before departure and after they return home.",
+            "url": "https://www.cnbc.com/2021/09/20/us-to-ease-travel-restrictions-for-foreign-visitors-who-are-vaccinated-against-covid.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106944186-1632143627168-gettyimages-1212276735-usdeclaresnationalemergencyduetocoronavirus19.jpeg?v=1632143665",
+            "publishedAt": "2021-09-20T14:01:10Z",
+            "content": "The U.S. will ease travel restrictions for international visitors who are vaccinated against Covid-19 in November, including those from the U.K. and EU, the White House said Monday.\r\nNon-citizens vis… [+1809 chars]"
+        },
+        
+        {
+            
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Peter Beaumont",
+            "title": "Gabby Petito: Florida police search for fiance after remains found - The Guardian",
+            "description": "Brian Laundrie reported missing as body believed to be of ‘van-life’ blogger discovered in national park",
+            "url": "https://amp.theguardian.com/us-news/2021/sep/20/gabby-petito-florida-police-search-fiance-brian-laundrie-of-missing-woman",
+            "urlToImage": null,
+            "publishedAt": "2021-09-20T13:32:00Z",
+            "content": "US newsBrian Laundrie reported missing as body believed to be of van-life blogger discovered in national park\r\nMon 20 Sep 2021 12.55 BST\r\nPolice in Florida are searching for the missing fiance of Gab… [+4827 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ryan Gaydos",
+            "title": "Patrick Mahomes' brother throws water on gloating Ravens fan: 'They were thirsty' - Fox News",
+            "description": "Patrick Mahomes’ brother was involved in an incident with a fan at M&T Bank Stadium after the Kansas City Chiefs lost to the Baltimore Ravens in a close game Sunday night.",
+            "url": "https://www.foxnews.com/sports/patrick-mahomes-brother-water-gloating-fan",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Jackson-Mahomes.jpg",
+            "publishedAt": "2021-09-20T13:16:09Z",
+            "content": "Patrick Mahomes brother was involved in an incident with a fan at M&amp;T Bank Stadium after the Kansas City Chiefs lost to the Baltimore Ravens in a close game Sunday night.\r\nJackson Mahomes, the yo… [+1529 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Tori Tori",
+            "title": "2021 Primetime Emmy Awards: \"The Crown\" dominates with seven wins - CBS News",
+            "description": "\"Ted Lasso\" went into the night with the most nominations and took home four Emmys. RuPaul also made history by winning the most Emmys ever by a person of color.",
+            "url": "https://www.cbsnews.com/live-updates/emmy-awards-2021-the-crown-ted-lasso/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/09/20/bfa86583-9408-4300-be0b-e758e908b758/thumbnail/1200x630/6b01c4f9a5155934d7c6f542e94dc797/ap-21263112287941.jpg",
+            "publishedAt": "2021-09-20T12:57:16Z",
+            "content": "Actress, dancer, choreographer, director and singer Debbie Allen received the 2021 Governors Award for her decades-long career. The award was created to honor someone \"so exceptional and universal in… [+1009 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Jeff Stein",
+            "title": "Debt ceiling poses major test for White House because of GOP refusal to assist - The Washington Post",
+            "description": "Republicans suspended the debt ceiling during the Trump administration but say Democrats now own the issue.",
+            "url": "https://www.washingtonpost.com/us-policy/2021/09/20/white-house-debt-ceiling/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VSOM4AAWNMI6ZIAZZMMTWKFKOM.jpg&w=1440",
+            "publishedAt": "2021-09-20T12:36:48Z",
+            "content": "Meanwhile, the White House has ruled out offering policy concessions to Republican lawmakers to lure GOP votes, according to three senior administration officials familiar with the matter. McConnell … [+8886 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": null,
+                "name": "KPRC Click2Houston"
+            },
+            "author": "Daniela Sternitzky-Di Napoli",
+            "title": "LIVE: 2 HPD officers shot in northeast Harris County while serving warrant, authorities say - KPRC Click2Houston",
+            "description": "Two officers have been shot in an incident in northeast Harris County.",
+            "url": "https://www.click2houston.com/news/local/2021/09/20/2-officers-shot-in-northeast-houston-police-say/",
+            "urlToImage": "https://www.click2houston.com/resizer/S4D4KrXETTCClwCJJYRGfg6vUgs=/800x450/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/d1vhqlrjc8h82r.cloudfront.net/09-20-2021/t_7a062e13db24448cb4c8c7fb995ea339_name_t_1be98140f5b44c919d955e081d5f768b_name_image.jpg",
+            "publishedAt": "2021-09-20T12:36:40Z",
+            "content": "HOUSTON Two officers have been shot in an incident in northeast Harris County.\r\nThe incident happened around 7:30 a.m. at the Timber Ridge Apartments on Aeropark Drive near Crosswinds Drive, authorit… [+752 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Robyn Dixon",
+            "title": "United Russia dominates parliamentary elections - The Washington Post",
+            "description": "The opposition has faulted a new online voting system that it says delivered the election to the ruling party in many areas.",
+            "url": "https://www.washingtonpost.com/world/europe/russia-election-results/2021/09/20/351973a4-1a05-11ec-bea8-308ea134594f_story.html",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IGYPHQQ2DAI6ZPFYBSYTLAIQA4.jpg&w=1440",
+            "publishedAt": "2021-09-20T12:35:25Z",
+            "content": "Coming in for particular criticism by the opposition was a new, online voting system used in six regions, which was described as opaque and has been credited with preserving United Russia seats, espe… [+4574 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Florence Ion",
+            "title": "Microsoft Surface Event 2021: What to Expect - Gizmodo",
+            "description": "Get ready for all the new Surface hardware to help usher in the launch of Windows 11.",
+            "url": "https://gizmodo.com/what-to-expect-from-microsofts-big-surface-event-1847692665",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/caa20016e7d6d5b7a070ab0830dc0dfd.png",
+            "publishedAt": "2021-09-20T12:30:00Z",
+            "content": "Windows 11 is just around the corner, which means its also time for Microsoft to launch new Surface hardware to go with it. Were expecting to hear all about the device lineup at the companys big hard… [+4391 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Will Feuer",
+            "title": "Elon Musk mocks Biden after SpaceX completes first all-civilian flight - New York Post ",
+            "description": "As of September 20, 2021, the White House had yet to comment on the mission, dubbed “Inspiration4,” the first time an all-civilian crew has ever made it to Earth’s orbit.",
+            "url": "https://nypost.com/2021/09/20/elon-musk-mocks-biden-after-spacex-completes-its-mission/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/09/elon-musk-spacex.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2021-09-20T12:26:00Z",
+            "content": "Elon Musk took a swipe at President Biden after the commander-in-chief failed to acknowledge SpaceX’s completion of its first all-civilian mission, in which four amateur astronauts orbited Earth for … [+3271 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Ronn Blitzer",
+            "title": "Omar calls on Schumer, White House to 'ignore' Senate parliamentarian on path to citizenship - Fox News",
+            "description": "The Senate parliamentarian determined that lawmakers cannot include a pathway to citizenship for illegal aliens in a budget reconciliation package, but Rep. Ilhan Omar, D-Minn., is pushing the Senate and the Biden administration to do it anyway.",
+            "url": "https://www.foxnews.com/politics/omar-schumer-white-house-ignore-senate-parliamentarian-path-to-citizenship",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/09/Ilhan-Omar-Squad-Israel-Comments-Controversy-AP-CC.jpg",
+            "publishedAt": "2021-09-20T12:16:40Z",
+            "content": "The Senate parliamentarian determined that lawmakers cannot include a pathway to citizenship for illegal aliens in a budget reconciliation package, but Rep. Ilhan Omar, D-Minn., is pushing the Senate… [+2429 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Francesca Bacardi",
+            "title": "Princess Beatrice gives birth to first child with Edoardo Mapelli Mozzi - Page Six",
+            "description": "The eldest child of Prince Andrew and Sarah Ferguson welcomed her daughter Saturday night. Her name was not disclosed.",
+            "url": "https://pagesix.com/2021/09/20/princess-beatrice-gives-birth-to-baby-with-edoardo-mapelli-mozzi/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2021/09/princess-beatrice-edoardo-mozzi-66.jpg?quality=90&strip=all&w=1200",
+            "publishedAt": "2021-09-20T12:15:00Z",
+            "content": "Princess Beatrice gave birth to her first child, a baby girl, with husband Edoardo Mapelli Mozzi, the royal family announced Monday.\r\nThe eldest child of Prince Andrew and Sarah Ferguson welcomed her… [+1553 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": null,
+                "name": "Panthers.com"
+            },
+            "author": null,
+            "title": "Panthers defense wakes up atop the league - Panthers.com",
+            "description": "Through two weeks, the Panthers have the NFL's top-ranked defense in a number of categories.",
+            "url": "https://www.panthers.com/news/panthers-defense-leads-nfl-statistics-week-2-2021",
+            "urlToImage": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_12_desktop/panthers/juvrijgngdlsdultflwh",
+            "publishedAt": "2021-09-20T12:08:55Z",
+            "content": "When Panthers coach Matt Rhule was asked about the pressure Sunday, he began by praising the run defense, and then went through a laundry list of individual players who did particular things, and the… [+1465 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Guardian staff reporter",
+            "title": "US begins deportation flights for Haitians camped at Texas border town - The Guardian",
+            "description": "More than 300 migrants arrive in Port-au-Prince as US plans to remove 12,000 camped around a bridge in Del Rio",
+            "url": "https://amp.theguardian.com/us-news/2021/sep/20/us-begins-deportation-flights-haitians-texas-border-town",
+            "urlToImage": null,
+            "publishedAt": "2021-09-20T11:59:00Z",
+            "content": "US immigrationMore than 300 migrants arrive in Port-au-Prince as US plans to remove 12,000 camped around a bridge in Del Rio\r\nAssociated Press in Del Rio, Texas\r\nMon 20 Sep 2021 07.59 EDT\r\nThe US has… [+5032 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": null,
+            "title": "Volcano erupts on Spain's La Palma island, spewing lava and forcing thousands to evacuate - CBS News",
+            "description": "Authorities had evacuated about 5,000 people by Monday morning and said at least 20 homes were destroyed by the lava.",
+            "url": "https://www.cbsnews.com/news/volcano-eruption-la-palma-spain-cumbre-vieja-island-evacuation/",
+            "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/09/20/45314e8c-1932-483f-a702-f9380060f85f/thumbnail/1200x630/18997992e61aeee56c99e10205039bb5/spain-la-palma-volcano-lava.jpg",
+            "publishedAt": "2021-09-20T11:58:30Z",
+            "content": "Lava continued to flow slowly from a volcano that erupted in Spain's Canary Islands off northwest Africa, but the head of the regional government said Monday that he expected no injuries to people in… [+4086 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Diksha Madhok, CNN Business",
+            "title": "French submarine dispute could torpedo EU-Australia trade talks - CNN",
+            "description": "France is threatening to block talks on a planned free trade agreement between Europe and Australia after the Australian government ditched a huge deal to buy French submarines.",
+            "url": "https://www.cnn.com/2021/09/20/business/france-australia-europe-trade-deal/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210917125109-australia-submarine-hmas-sheean-file-2021-super-tease.jpg",
+            "publishedAt": "2021-09-20T11:56:00Z",
+            "content": null
+        },
+      
+        {
+          
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Covid vaccine is safe for kids aged 5-11, Pfizer says - CNN",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9RjJlSWx5WTZfSTjSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-09-20T11:41:41Z",
+            "content": null
+        },
+      
+        {
+          
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Scott Neuman",
+            "title": "Gunman Kills 8 People, Injures 12 Others At A Russian University - NPR",
+            "description": "Video posted to social media showed students jumping from second-story windows, apparently to escape the attack. Russian officials said the suspect, a student, had been detained.",
+            "url": "https://www.npr.org/2021/09/20/1038871894/gunman-russia-perm-state-university-shooting-updates",
+            "urlToImage": "https://media.npr.org/assets/img/2021/09/20/gettyimages-1235378900_wide-5b1532db739158a28a149948268b361f755e24f2.jpg?s=1400",
+            "publishedAt": "2021-09-20T11:40:45Z",
+            "content": "A broken window is pictured at the Perm State University where an unidentified man opened fire, killing at least eight people and injuring 24 others.\r\nInvestigative Committee/Investigative Committee/… [+1933 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "Amazon leaks new Kindle Paperwhite with larger 6.8-inch display - The Verge",
+            "description": "New Kindle devices have leaked via a since-removed comparison chart on Amazon Canada. There’s CA$149.99 (around $117) Kindle Paperwhite, and a CA$209.99 (around $164) Kindle Paperwhite Signature Edition.",
+            "url": "https://www.theverge.com/2021/9/20/22683627/kindle-paperwhite-2021-signature-edition-6-8-inch-screen-wireless-charging",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/scdQOdyPNXWuKxxBSuemdv2HBSY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/13391945/akrales_181101_3056_0332.jpg",
+            "publishedAt": "2021-09-20T11:26:40Z",
+            "content": "But no mention of whether its using USB-C\r\nAmazons last Kindle Paperwhite, released in 2018.\r\nPhoto by Amelia Holowaty Krales / The Verge\r\nA new generation of Kindle devices appears to have leaked vi… [+2261 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Jason Gutierrez",
+            "title": "Boxer Manny Pacquiao Joins Filipino Presidential Race - The New York Times",
+            "description": "The country’s best-known athlete already holds a seat in the Senate and has faced tough opposition from President Rodrigo Duterte.",
+            "url": "https://www.nytimes.com/2021/09/20/world/asia/manny-pacquiao-president-philippines.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/09/20/world/20PHILIPPINES-PACQUIAO/20PHILIPPINES-PACQUIAO-facebookJumbo.jpg",
+            "publishedAt": "2021-09-20T11:10:44Z",
+            "content": "Aries Arugay, a political science professor at the University of the Philippines, said that he was not surprised by Mr. Pacquiaos announcement but that the boxer may be in over his head. While Mr. Pa… [+1121 chars]"
+        },
+      
+        {
+          
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Emily McCormick",
+            "title": "Stock market news live updates: Stock futures sink amid China's Evergrande default risk, debt ceiling debates - Yahoo Finance",
+            "description": "U.S. stock futures sold off Monday morning, tracking declines in overseas equities as investors nervously eyed the potential ripple effects of a default of a...",
+            "url": "https://finance.yahoo.com/news/stock-market-news-live-updates-september-20-2021-105919123.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/.GrAGN7PWMQiqDttrKfz9g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2021-09/bc80ada0-19fe-11ec-bfdf-510742ff2e54",
+            "publishedAt": "2021-09-20T10:59:19Z",
+            "content": "U.S. stock futures sold off Monday morning, tracking declines in overseas equities as investors nervously eyed the potential ripple effects of the default of a major Chinese real estate company and o… [+5637 chars]"
+        }
+    ]
+
+}
