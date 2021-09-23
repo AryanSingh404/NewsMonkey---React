@@ -32,8 +32,9 @@ export default class App extends Component {
           // onLoaderFinished={() => setProgress(0)}
           />
 
-            
+
           <Switch>
+            <Route exact path="/"><News setProgress={this.setProgress} key="general" apiKey="a522e9179730451fbc1549a9b7e22369" category="general" /></Route>
             <Route exact path="/general"><News setProgress={this.setProgress} key="general" apiKey="a522e9179730451fbc1549a9b7e22369" category="general" /></Route>
             <Route exact path="/business"><News setProgress={this.setProgress} key="business" apiKey="a522e9179730451fbc1549a9b7e22369" category="business" /></Route>
             <Route exact path="/entertainment"><News setProgress={this.setProgress} key="entertainment" apiKey="a522e9179730451fbc1549a9b7e22369" category="entertainment" /></Route>
